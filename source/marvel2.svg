@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 484 196" style="enable-background:new 0 0 484 196;background:#dc2127" xml:space="preserve">
+	<g id="marvel">
+		<path d="M312,105.5L298.5,17H269l4.5,28.5c0,0-9.1-25-30.5-28.5c-33.5,0-42.5,0-42.5,0v156.5L179,17
+			h-36l-22,146V17H83L69,87.5L54.5,17H19v165h27v-66l17,66h13l15-70v70h54l3-16.5h24l2.5,16.5H230v-53.5h4l18.5,53.5h28l-22-64
+			c0,0,17.5-10.5,19.5-43.9c0.2,3.3,18,107.9,18,107.9h31l24-156v156h56v-34h-26.5v-32H407V84.5h-26.5v-32H407V17h-83.5L312,105.5z
+			 M151.5,135.5l8.9-53.8l8.9,53.8H151.5z M229.5,96V47.8c19,4.5,18.8,24.5,19,24.1C247.3,92,229.5,96,229.5,96z" style="fill:#fff;" />
+		<polygon points="444,148.3 444,17 414.3,17 414.3,182 469,182 469,148.3" style="fill:#fff;" />
+	</g>
+</svg>
