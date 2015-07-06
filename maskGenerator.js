@@ -238,7 +238,7 @@ maskTransform = {
 		var opts, e, m;
 
 		m = this;
-		opts = getopt.script('node maskTransform.js')
+		opts = getopt.script('node maskGenerator.js')
 				.options(
 					{
 						source: {
